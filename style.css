@@ -1,0 +1,161 @@
+.ho:hover{
+    border: 0px solid;
+    background-color: rgba(148, 198, 221, 0.63);
+    border-radius: 5px;
+}
+.myform{
+    display: flex;
+    background-image: url(https://media.gettyimages.com/photos/body-building-workout-picture-id612262390?k=6&m=612262390&s=612x612&w=0&h=Q_Xmwxr4fmg4qY__ALpQOHokuFWSNjRjmD0P1Z9qiVQ=);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    margin: 20px 0px;
+    height: fit-content;
+    flex-wrap: wrap;
+    justify-content:space-evenly;
+    align-items: flex-start;
+}
+.form1{
+    border: 0px solid;
+    border-radius: 10px;
+    padding: 30px;
+    margin: 30px;
+    float:left;
+    width:fit-content;
+    background-color: rgba(255, 255, 255, 0.432);
+}
+.form2{
+    border: 0px solid;
+    border-radius: 10px;
+    padding: 30px;
+    width:fit-content;
+    margin: 30px;
+    float:right;
+    background-color: rgba(255, 255, 255, 0.432);
+}
+.trainer{
+    display: flex;
+    align-items: center;
+    justify-content:space-around;
+    border: 10px black solid;
+    border-radius: 20px;
+}
+.responsive{
+    max-width: 100%;
+    height: auto;
+}
+#trainer1{
+    margin: 0px 20px;
+    width: 40%;
+    background-color: rgba(192, 192, 192, 0.548);
+    border: 0px solid;
+    border-radius: 30px;
+    padding: 20px;
+    height :auto;
+    font-weight: bolder;
+    text-shadow: 2px 2px 5px white;
+    font-size: x-large;
+    height: auto;
+}
+#trainer2{
+    margin: 0px 20px;
+    width: 40%;
+    background-color: rgba(192, 192, 192, 0.548);
+    border: 0px solid;
+    border-radius: 30px;
+    padding: 20px;
+    height :auto;
+    font-weight: bolder;
+    text-shadow: 2px 2px 5px white;
+    font-size: x-large; 
+    height: auto; 
+}
+#trainer3{
+    height: auto;
+    margin: 0px 20px;
+    width: 40%;
+    background-color: rgba(192, 192, 192, 0.548);
+    border: 0px solid;
+    border-radius: 30px;
+    padding: 20px;
+    height :auto;
+    font-weight: bolder;
+    text-shadow: 2px 2px 5px white;
+    font-size: x-large;
+}
+.someinfo{
+    background-image: url(https://previews.123rf.com/images/janpietruszk/janpietruszk1509/janpietruszk150901345/45197303-healthy-lifestyle-concept-diet-and-fitness.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 20px 0px;
+}
+.foot{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family:cursive;
+    font-weight: 300px;
+    background-color: rgba(169, 169, 169, 0.616);
+}
+.t_img{
+    width:40%;
+}
+.col{
+    padding: 20px;
+}
+.carousel-item {
+    height: 500px;
+  }
+  
+.carousel-item img {
+    position: absolute;
+    object-fit:cover;
+    top: 0;
+    left: 0;
+    min-height: 500px;
+}
+.home_page .carousel-item img {
+    height: 500px;
+}
+.para{
+    text-shadow: 3px 3px 10px ;
+    border: 0px solid;
+    border-radius: 10px;
+    background-color: rgba(20, 20, 20, 0.5);
+}
+.mygrid{
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.my_img{
+    margin: 25px;
+    border:25px white solid;
+    box-shadow: 5px 5px 10px white;
+}
+.my_img:hover{
+    zoom: 1.2;
+}
+.gal{
+    display: flex;
+    justify-content: center;
+}
+.det ul li{
+    margin: 5px;
+
+}
+.det{
+    border: 5px white solid;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 20px;
+    background-color: rgba(255, 255, 255, 0.342);
+    font-family: cursive;
+}
+.main_add{
+    padding-left: 20px;
+    padding-top: 20px;
+}
